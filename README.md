@@ -20,7 +20,7 @@ I Actively code on React and APIs every day.
 
 I love to read books and listen to music.
 
-- 🔭 I’m currently about to launch interview preparation notes helping people to get interview ready within 6 months.
+- 🔭 I have launched my topmate for interview preparation which is helping people to get interview ready within 6 months.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about  React.js, Node.js and API development.
